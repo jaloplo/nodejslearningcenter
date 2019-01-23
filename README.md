@@ -1,9 +1,19 @@
 # Node.js links
 
-## Streams
+## Net
 
 ### Articles 
 
+* [**Net | Node.js Documentation**](https://nodejs.org/api/net.html)
+
+### Exercises
+
+* **[Simple Client](/src/net/client.js), [Simple Server](/src/net/server.js)** - [/src/streams/client.js](/src/streams/client.js), [/src/streams/server.js](/src/streams/server.js)
+
+
+## Streams
+
+### Articles 
 
 * [**File System | Node.js Documentation**](https://nodejs.org/api/fs.html)
 * [**Stream | Node.js Documentation**](https://nodejs.org/api/stream.html)
