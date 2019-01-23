@@ -10,4 +10,5 @@
 ### Exercises
 
 * [**Echo** - /src/streams/echo.js](/src/streams/echo.js)
+* [**Echo File** - /src/streams/echo_file.js](/src/streams/echo_file.js)
 * [**Copy File** - /src/streams/copy_file.js](/src/streams/copy_file.js)
