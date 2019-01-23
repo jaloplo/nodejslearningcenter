@@ -1,9 +1,9 @@
 var fs = require('fs');
 
-const sourceFilePath = 'echo_file.in';
+const sourceFilePath = 'copy_file.in';
 var sourceStream = fs.createReadStream(sourceFilePath);
 
-const targetFilePath = 'echo_file.out';
+const targetFilePath = 'copy_file.out';
 var targetStream = fs.createWriteStream(targetFilePath);
 
 sourceStream.pipe(targetStream);
