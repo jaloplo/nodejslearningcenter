@@ -1,4 +1,11 @@
-# Node.js links
+# Node.js Learning Resources and Exercises
+
+This project is intented to be a starting point to learn Node.js from the scratch. I'm using it for doing the same, learn Node.js API and how to use it to apply in real problems.
+
+This document is divided following the Node.js API concepts as the main category. Inside of each of them, you can find useful articles from the entire web and the exercises I'm coding to understand all Node.js stuff of that subject.
+
+Hope that this can help you as well as it help me.
+
 
 ## Net
 
